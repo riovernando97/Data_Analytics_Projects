@@ -29,7 +29,7 @@ Jelaskan step-by-step seperti:
    - Analisis pembelian sepeda berdasarkan usia.
    - Analisis pembelian sepeda berdasarkan jarak tempuh customer.
 4. Visualisasi (dashboard)
-   - <img src="Bike Sales Dashboard.jpg" width="500">
+   - <img src="Bike Sales Dashboard.jpg" width="800">
 5. Kesimpulan
 
 ## 📁 Dataset
