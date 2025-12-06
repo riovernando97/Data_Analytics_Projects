@@ -31,11 +31,12 @@ Jelaskan step-by-step seperti:
 4. Visualisasi (dashboard)
    - <img src="Bike Sales Dashboard.jpg" width="800">
 5. Kesimpulan
+   Pembelian sepeda paling banyak terjadi pada kalangan orang dewasa berpendapatan tinggi yang berkomuter jarak pendek.
 
 ## 📁 Dataset
 - Sumber dataset: Kaggle
-- Jumlah baris: 13351
-- Jumlah kolom: 13
+- Jumlah baris: 1000
+- Jumlah kolom: 14
 
 ## 🧠 Kesimpulan
 Tuliskan apa yang dipelajari atau diperoleh dari analisis ini.
