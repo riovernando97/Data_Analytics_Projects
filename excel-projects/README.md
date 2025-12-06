@@ -24,12 +24,12 @@ Jelaskan step-by-step seperti:
    - Mengubah format kolom "Income" menjadi currency.
    - Mengubah value pada kolom "Commute Distance" (+10 Miles) menjadi "More Than 10 Miles" supaya bisa diurutkan didalam pivot table.
    - Membuat kolom baru "Age Brackets" untuk mengelompokkan usia berdasarkan rentang tertentu.
-3. Exploratory Data Analysis (Pivot Table) :
+3. Exploratory Data Analysis (Pivot Table)
    - Analisis pembelian sepeda berdasarkan gender.
    - Analisis pembelian sepeda berdasarkan usia.
    - Analisis pembelian sepeda berdasarkan jarak tempuh customer.
 4. Visualisasi (dashboard)
-                <img src="Bike Sales Dashboard.jpg" width="500">
+   - <img src="Bike Sales Dashboard.jpg" width="500">
 5. Kesimpulan
 
 ## 📁 Dataset
