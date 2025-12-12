@@ -51,7 +51,7 @@ Jelaskan step-by-step seperti:
   Meskipun variabel seperti status pernikahan, pendidikan, dan region tidak divisualisasikan secara langsung, dashboard menyediakan filter untuk mengeksplorasi hubungan antara demografi tersebut dan pembelian sepeda.
 - 
 
-## 💡 Rekomendasi Bisnis (Opsional)
+## 💡 Rekomendasi Bisnis
 - Fokus pada kelompok berpendapatan menengah ke atas
 - Menargetkan usia dewasa
 - Menonjolkan manfaat sepeda untuk komuter jarak dekat
