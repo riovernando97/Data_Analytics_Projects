@@ -39,9 +39,20 @@ Jelaskan step-by-step seperti:
 - Jumlah kolom: 14
 
 ## 🧠 Kesimpulan
-Tuliskan apa yang dipelajari atau diperoleh dari analisis ini.
+- Profil Pelanggan yang Membeli Sepeda Lebih Jelas Teridentifikasi
+  Analisis menunjukkan bahwa pembeli sepeda umumnya berasal dari kelompok dengan pendapatan lebih tinggi, berusia dewasa (middle age), dan memiliki jarak komuter yang relatif pendek. Informasi ini membantu memahami siapa target pasar utama.
+- Pendapatan Memiliki Pengaruh Signifikan terhadap Keputusan Pembelian
+  Data memperlihatkan bahwa kelompok pembeli memiliki pendapatan rata-rata lebih tinggi dibandingkan non-pembeli, baik pada kategori pria maupun wanita. Ini menunjukkan bahwa daya beli menjadi faktor penting dalam keputusan membeli sepeda.
+- Usia Menjadi Faktor Utama dalam Segmentasi Pembeli
+  Konsumen yang berada pada kategori usia dewasa menunjukkan tingkat pembelian tertinggi. Segmentasi ini penting untuk strategi pemasaran yang lebih terarah pada kelompok usia yang paling responsif.
+- Kebiasaan Komuter Memberi Gambaran Kebutuhan Pengguna
+  Pelanggan yang membeli sepeda mayoritas melakukan perjalanan jarak pendek (0–1 miles). Ini mengindikasikan bahwa sepeda lebih diminati sebagai alat transportasi jarak dekat, bukan perjalanan jauh.
+- Dashboard Menyediakan Alat Eksplorasi Demografis
+  Meskipun variabel seperti status pernikahan, pendidikan, dan region tidak divisualisasikan secara langsung, dashboard menyediakan filter untuk mengeksplorasi hubungan antara demografi tersebut dan pembelian sepeda.
+- 
 
 ## 💡 Rekomendasi Bisnis (Opsional)
-- Rekomendasi 1
-- Rekomendasi 2
-
+- Fokus pada kelompok berpendapatan menengah ke atas
+- Menargetkan usia dewasa
+- Menonjolkan manfaat sepeda untuk komuter jarak dekat
+- Mengembangkan campaign berbasis lokasi menggunakan filter region
