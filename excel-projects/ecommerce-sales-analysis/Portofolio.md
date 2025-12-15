@@ -30,7 +30,7 @@ Analisis ini bertujuan untuk performa e-commerce, mengidentifikasi peluang pertu
    - Analisis top 5 sub-kategori terlaris.
    - Analisis penjualan terkonsentrasi di beberapa state.
 4. Visualisasi (dashboard)
-   - <img src="ecommerce-sales-analysis/E-Commerce Sales Analysis Dashboard.jpg" width="800">
+   -<img src="ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis%20Dashboard.jpg" width="800">
 5. Kesimpulan
    Perusahaan menunjukan pertumbuhan penjualan yang kuat, namun perlu fokus pada peningkatan profit margin melalui optimasi kategori, subkategori, dan strategi harga.
 
