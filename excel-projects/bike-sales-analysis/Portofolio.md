@@ -16,7 +16,6 @@ Analisis ini bertujuan untuk memahami pengaruh penjualan sepeda dan pendapatan c
 - Sepeda banyak dibeli oleh pelanggan yang tinggal dekat dengan tempat kerja/aktivitas. Segmentasi "short commute" sangat relevan untuk campaign sepeda urban.
 
 ## 🔧 Cara Analisis Dilakukan
-Jelaskan step-by-step seperti:
 1. Menghapus duplikasi data.
 2. Data Cleaning
    - Memberi nama pada kolom "Marital Status" menggunakan rumus IF().
