@@ -48,7 +48,6 @@ Analisis ini bertujuan untuk memahami pengaruh penjualan sepeda dan pendapatan c
   Pelanggan yang membeli sepeda mayoritas melakukan perjalanan jarak pendek (0–1 miles). Ini mengindikasikan bahwa sepeda lebih diminati sebagai alat transportasi jarak dekat, bukan perjalanan jauh.
 - Dashboard Menyediakan Alat Eksplorasi Demografis
   Meskipun variabel seperti status pernikahan, pendidikan, dan region tidak divisualisasikan secara langsung, dashboard menyediakan filter untuk mengeksplorasi hubungan antara demografi tersebut dan pembelian sepeda.
-- 
 
 ## 💡 Rekomendasi Bisnis
 - Fokus pada kelompok berpendapatan menengah ke atas
