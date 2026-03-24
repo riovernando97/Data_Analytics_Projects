@@ -21,7 +21,7 @@ Analisis ini bertujuan untuk performa e-commerce, mengidentifikasi peluang pertu
 ## 🔧 Cara Analisis Dilakukan
 1. Menghapus duplikasi data.
 2. Data Cleaning
-     Data cleaning tidak dilakukan karena dataset yang diperoleh sudah rapi (clean) dan tidak perlu melakukan cleaning dan transform.
+   Data cleaning tidak dilakukan karena dataset yang diperoleh sudah rapi (clean) dan tidak perlu melakukan cleaning dan transform.
 3. Exploratory Data Analysis (Pivot Table)
    - Analisis kinerja penjualan secara Year-Over-Year.
    - Analisis tren penjualan bulanan.
